@@ -1,1 +1,1 @@
-# REDI
+# Python lessons 
